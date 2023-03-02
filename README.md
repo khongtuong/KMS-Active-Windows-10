@@ -130,5 +130,3 @@ Windows 10 Enterprise S – NK96Y-D9CD8-W44CQ-R8YTK-DYJWX
 Windows 10 Enterprise N – WGGHN-J84D6-QYCPR-T7PJ7-X766F
 Windows 10 Enterprise G N – FW7NV-4T673-HF4VX-9X4MM-B4H4T
 Windows 10 Enterprise N LTSB 2016: RW7WN-FMT44-KRGBK-G44WK-QV7YK
-
-https://www.thewindowsclub.com/generic-windows-10-product-keys-to-install-windows-10-enterprise
