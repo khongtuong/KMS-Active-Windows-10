@@ -10,8 +10,11 @@ slmgr /ato
 
 Server:
 kms.srv.crsoo.com
+
 cy2617.jios.org
+
 kms.digiboy.ir
+
 kms.cangshui.net
 kms.library.hk
 hq1.chinancce.com
