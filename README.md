@@ -79,48 +79,47 @@ Example:
 * zh.us.to
 * noair.strangled.net:1688
 
-## Keys:
-* Home/Core                            TX9XD-98N7V-6WMQ6-BX7FG-H8Q99        
-* Home/Core (Country Specific)         PVMJN-6DFY6-9CCP6-7BKTT-D3WVR  
-* Home/Core (Single Language)          7HNRX-D7KGG-3K4RQ-4WPJ4-YTDFH  
-* Home/Core N                          3KHY7-WNT83-DGQKR-F7HPR-844BM 
-* Professional                         W269N-WFGWX-YVC9B-4J6C9-T83GX 
-* Professional N                       MH37W-N47XK-V7XM9-C7227-GCQG9
-* Professional Enterprise				 
-* Professional Workstation			 
-* Enterprise                           NPPR9-FWDCX-D2C8J-H872K-2YT43 
-* Enterprise N                         DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4 
-* Education                            NW6C2-QMPVW-D7KKK-3GKT6-VCFB2 
-* Education N                          2WH4N-8QGBV-H22JP-CT43Q-MDWWJ 
-* Enterprise 2015 LTSB                 WNMTR-4C88C-JK8YV-HQ7T2-76DF9
-* Enterprise 2015 LTSB N               2F77B-TNFGY-69QQF-B8YKP-D69TJ 
-* Enterprise 2016 LTSB                 DCPHK-NFMTC-H88MJ-PFHPY-QJ4BJ  
-* Enterprise 2016 LTSB N               QFFDN-GRT3P-VKWWX-X7T3R-8B639
-* Windows 10 Enterprise N Eval Activation Key 	MNXKQ-WY2CT-JWBJ2-T68TQ-YBH2V
-* Windows 10 Enterprise S Eval Activation Key 	7TNX7-H36JG-QFF42-K4JYV-YY482
-* Windows 10 Enterprise S N Eval Activation Key 	D3M8K-4YN49-89KYG-4F3DR-TVJW3
-* Windows 10 Enterprise Eval Activation Key 	VPMWD-PVNRR-79WJ9-VVJQC-3YH2G
-* Windows 10 Starter Activation Key 	D6RD9-D4N8T-RT9QX-YW6YT-FCWWJ
-* Windows 10 Education N Activation Key 	84NGF-MHBT6-FXBX8-QWJK7-DRR8H
-* Windows 10 Education Activation Key 	YNMGQ-8RYV3-4PGQ3-C8XTP-7CFBY
-* Windows 10 Professional Activation Key 	VK7JG-NPHTM-C97JM-9MPGT-3V66T
-* Windows 10 Professional N Activation Key 	2B87N-8KFHP-DKV6R-Y2C8J-PKCKT
-* Windows 10 Core Activation Key 	YTMG3-N6DKC-DKB77-7M9GH-8HVX7
-* Windows 10 Core N Activation Key 	4CPRK-NM3K3-X6XXQ-RXX86-WXCHW
-* Core Single Language 	BT79Q-G7N6G-PGBYW-4YWX6-6F4BT
-* Core Country Specific 	N2434-X9D7W-8PF6X-8DV9T-8TYMD
-* Windows 10 Home – YTMG3-N6DKC-DKB77-7M9GH-8HVX7
-* Windows 10 Home N – 4CPRK-NM3K3-X6XXQ-RXX86-WXCHW
-* Windows 10 Pro – VK7JG-NPHTM-C97JM-9MPGT-3V66T
-* Windows 10 Pro N – 2B87N-8KFHP-DKV6R-Y2C8J-PKCKT
-* Windows 10 Pro for Workstations – DXG7C-N36C4-C4HTG-X4T3X-2YV77
-* Windows 10 Pro N for Workstations – WYPNQ-8C467-V2W6J-TX4WX-WT2RQ
-* Windows 10 S – 3NF4D-GF9GY-63VKH-QRC3V-7QW8P
-* Windows 10 Education – YNMGQ-8RYV3-4PGQ3-C8XTP-7CFBY
-* Windows 10 Education N – 84NGF-MHBT6-FXBX8-QWJK7-DRR8H
-* Windows 10 Pro Education – 8PTT6-RNW4C-6V7J2-C2D3X-MHBPB
-* Windows 10 Pro Education N – GJTYN-HDMQY-FRR76-HVGC7-QPF8P
-* Windows 10 Enterprise – XGVPP-NMH47-7TTHJ-W3FW7-8HV2C
+List of Windows 10 Product Key
+Here is a list of Windows 10 product keys. These product keys are useful for those who don't get the Windows copy.
+
+Windows 10 Product Keys List Free Download:
+  VK7JG-NPHTM-C97JM-9MPGT-3V66T
+ 	DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4
+ 	W269N-WFGWX-YVC9B-4J6C9-T83GX
+ 	MH37W-N47XK-V7XM9-C7227-GCQG9
+ 	TX9XD-98N7V-6WMQ6-BX7FG-H8Q99
+ 	WNMTR-4C88C-JK8YV-HQ7T2-76DF9
+ 	W269N-WFGWX-YVC9B-4J6C9-T83GX
+  
+List of Windows Server 2016 All Versions Product Key
+Windows Server 2016 Datacenter Key	CB7KF-BWN84-R7R2Y-793K2-8XDDG
+Windows Server 2016 Standard Key	WC2BQ-8NRM3-FDDYY-2BFGV-KHKQY
+Windows Server 2016 Essentials Key	JCKRF-N37P4-C2D82-9YXRT-4M63B
+List of Windows 10 Product Keys for All Versions
+Windows 10 Professional Key	W269N-WFGWX-YVC9B-4J6C9-T83GX
+Windows 10 Professional N Product Key	MH37W-N47XK-V7XM9-C7227-GCQG9
+Windows 10 Enterprise Key	NPPR9-FWDCX-D2C8J-H872K-2YT43
+Windows 10 Enterprise N Key	DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4
+Windows 10 Education Key	NW6C2-QMPVW-D7KKK-3GKT6-VCFB2
+Windows 10 Home N	AKJUS-WY2CT-JWBJ2-T68TQ-YBH2V
+Windows 10 Enterprise 2015 LTSB N	JAHSU-QMPVW-D7KKK-3GKT6-VCFB2
+Windows 10 Pro for Workstations	AKSIU-WY2CT-JWBJ2-T68TQ-YBH2V
+Windows Pro N for Workstations	SJUY7-NFMTC-H88MJ-PFHPY-QJ4BJ
+Windows 10 Pro Education	AJUYS-8C467-V2W6J-TX4WX-WT2RQ
+Windows 10 Enterprise N	AJSU7-GRT3P-VKWWX-X7T3R-8B639
+Windows 10 Enterprise Key	ALSOI-MHBT6-FXBX8-QWJK7-DRR8H
+Windows 10 Enterprise S	8UY76-TNFGY-69QQF-B8YKP-D69TJ
+Windows 10 Enterprise G N	AJSUY-NPHTM-C97JM-9MPGT-3V66T
+Windows 10 Pro Education N	ALSOI-4C88C-JK8YV-HQ7T2-76DF9
+List of Windows 10 Activation Keys
+Windows Server 2016 Standard	WC2BQ-8NRM3-FDDYY-2BFGV-KHKQY
+Windows Server 2016 Essentials	JCKRF-N37P4-C2D82-9YXRT-4M63B
+Windows 10 Professional	W269N-WFGWX-YVC9B-4J6C9-T83GX
+Windows 10 Professional N	MH37W-N47XK-V7XM9-C7227-GCQG9
+Windows 10 Enterprise	NPPR9-FWDCX-D2C8J-H872K-2YT43
+Windows 10 Enterprise N	DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4
+Windows 10 Education	NW6C2-QMPVW-D7KKK-3GKT6-VCFB2
+Windows 10 Education N	2WH4N-8QGBV-H22JP-CT43Q-MDWWJ
 * Windows 10 Enterprise S – NK96Y-D9CD8-W44CQ-R8YTK-DYJWX
 * Windows 10 Enterprise N – WGGHN-J84D6-QYCPR-T7PJ7-X766F
 * Windows 10 Enterprise G N – FW7NV-4T673-HF4VX-9X4MM-B4H4T
